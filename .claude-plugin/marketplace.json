@@ -1,0 +1,14 @@
+{
+  "name": "jrnxf",
+  "description": "Claude Code plugins by jrnxf.",
+  "owner": {
+    "name": "jrnxf"
+  },
+  "plugins": [
+    {
+      "name": "kb",
+      "source": { "source": "github", "repo": "jrnxf/kb" },
+      "description": "A personal, repo-agnostic knowledge store for coding agents."
+    }
+  ]
+}
